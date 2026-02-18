@@ -83,7 +83,7 @@ figure {
   min-height: 70vh;
   display: flex;
   align-items: center;
-  background: url('/images/hero.jpg') center / cover no-repeat;
+  background: url('images/hero.jpg') center / cover no-repeat;
   color: #ffffff;
 }
 
